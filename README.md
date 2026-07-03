@@ -1,4 +1,4 @@
-# 👨💻 DevOps Engineer in the Making | Cloud & Automation Aficionado
+# 👨💻 DevOps Engineer | Cloud & Automation Aficionado
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=435&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+%F0%9F%9A%80;Learning+%7C+Building+%7C+Iterating+%F0%9F%93%A6" alt="Typing SVG" />
