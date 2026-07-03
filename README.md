@@ -165,7 +165,7 @@ I'm Rishindra Pratap Singh, an AWS Community Builder & DevOps engineer actively 
 - Notification hooks improved response to deployment issues by 75%  
 - Repeatable deployments boosted system reliability by 80%  
 
-[🔍 Explore All Projects →](https://github.com/Amitabh-DevOps?tab=repositories)
+[🔍 Explore All Projects →](https://github.com/rishindrasingh?tab=repositories)
 
 ---
 
