@@ -181,13 +181,13 @@ I'm always excited to discuss:
   <a href="https://amitabh.engineer/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/amitabh-soni-devops">
+  <a href="https://www.linkedin.com/in/rishindra-pratap-singh-46880b148/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Amitabh_DevOps">
+  <a href="https://x.com/SinghRishindra">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:amitabhdevops2024@gmail.com">
+  <a href="mailto:rishindrasingh23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
