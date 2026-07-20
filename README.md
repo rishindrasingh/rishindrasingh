@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm Rishindra Pratap Singh, an AWS Community Builder & DevOps engineer actively bridging the gap between development dreams and operational reality. My journey involves creating self-healing infrastructure and optimizing the CI/CD pipeline universe.
+I'm Rishindra Pratap Singh, an Cloud & DevOps engineer actively bridging the gap between development dreams and operational reality. My journey involves creating self-healing infrastructure and optimizing the CI/CD pipeline universe.
 
 🚀 **Current Focus**:
 - ☁️ Mastering cloud-native technologies on AWS & GCP
